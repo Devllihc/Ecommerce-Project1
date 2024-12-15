@@ -58,7 +58,7 @@ Website bán hàng này là một ứng dụng **SPA** giúp tối ưu trải ng
 
 ### Bước 1: Clone dự án
 ```bash
-git clone https://github.com/hoannor/CongNgheWeb
+git clone https://github.com/Devllihc/Ecommerce-Project1.git
 ```
 ---
 ## 📂 **Cấu trúc dự án**

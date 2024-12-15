@@ -58,7 +58,8 @@
   color: #ffefba;
   border-bottom: 1px solid #ffefba;
 }
-/*======== page not found css ======= */
+/* =================================
+======== page not found css ======= */
 .pnf {
   display: flex;
   min-height: 65vh;
@@ -87,6 +88,7 @@
   background-color: black;
   color: white;
 }
+/* ========================================= */
 /* =========contact us ========= */
 .contactus {
   margin: 0;
